@@ -397,7 +397,7 @@ public static void quickSort(int[] array, int low, int high) {
 
 - **稳定性** ：不稳定
 - **时间复杂度** ：最佳：O(nlogn)， 最差：O(nlogn)，平均：O(nlogn)
-- **空间复杂度** ：O(nlogn)
+- **空间复杂度** ：O(logn)
 
 ## 堆排序 (Heap Sort)
 
